@@ -2,6 +2,8 @@
 
 A simple command line interface (CLI) application to track and manage your tasks and to-do lists. Built with Python using only native libraries - no external dependencies required.
 
+[Task Tracker CLI](https://roadmap.sh/projects/task-tracker)
+
 ## Features
 
 - ✅ **Add tasks** - Create new tasks with descriptions
@@ -105,28 +107,6 @@ Example `tasks.json` structure:
 
 ## Examples
 
-### Getting Started
-
-1. **Add your first task:**
-   ```bash
-   python task_cli.py add "Learn Python CLI development"
-   ```
-
-2. **Check your tasks:**
-   ```bash
-   python task_cli.py list
-   ```
-
-3. **Start working on a task:**
-   ```bash
-   python task_cli.py mark-in-progress 1
-   ```
-
-4. **Complete a task:**
-   ```bash
-   python task_cli.py mark-done 1
-   ```
-
 ### Workflow Example
 
 ```bash
@@ -158,50 +138,3 @@ The application handles various error cases gracefully:
 - File I/O errors
 - Invalid status values
 - Empty task descriptions
-
-## File Structure
-
-```
-Task TB/
-├── task_cli.py          # Main CLI application
-├── tasks.json           # Task data storage (created automatically)
-└── README.md            # This file
-```
-
-## Development
-
-This project is built using only Python's standard library:
-
-- `json` - JSON file handling
-- `sys` - Command line argument processing
-- `os` - File system operations
-- `datetime` - Timestamp management
-- `typing` - Type hints for better code quality
-
-## Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve this project.
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Troubleshooting
-
-### Common Issues
-
-1. **"python is not recognized"**
-   - Ensure Python is installed and added to your system PATH
-   - Try using `python3` instead of `python`
-
-2. **Permission errors when saving tasks**
-   - Ensure you have write permissions in the current directory
-   - Check if the `tasks.json` file is read-only
-
-3. **Tasks not persisting**
-   - Verify the `tasks.json` file exists in the current directory
-   - Check file permissions and disk space
-
-### Getting Help
-
-Run `python task_cli.py help` to see all available commands and usage examples.
