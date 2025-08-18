@@ -2,6 +2,8 @@
 
 A simple, fun command-line number guessing game built in Python. The computer picks a number between 1 and 100 and you try to guess it before you run out of chances.
 
+[Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)
+
 ### Features
 - **Difficulty levels**: Easy (10 chances), Medium (5), Hard (3)
 - **Higher/Lower feedback** after each guess
@@ -13,19 +15,6 @@ A simple, fun command-line number guessing game built in Python. The computer pi
 
 ### Requirements
 - Python 3.8 or newer
-
-### How to Run
-- Windows (PowerShell or CMD):
-```bash
-python number_guessing_game.py
-# or, if you have multiple Python versions installed
-py -3 number_guessing_game.py
-```
-
-- macOS/Linux:
-```bash
-python3 number_guessing_game.py
-```
 
 ### Sample Gameplay
 ```
@@ -79,5 +68,6 @@ Time taken: 12s
 - You can type `easy`, `medium`, or `hard` instead of 1/2/3 when selecting difficulty.
 - Use `hint` strategically—each hint narrows the range but costs one chance.
 - Type `quit` to abandon the current round without closing the program.
+
 
 
