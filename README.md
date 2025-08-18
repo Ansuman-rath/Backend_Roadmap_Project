@@ -6,22 +6,26 @@ This repository contains back-end projects built following the [roadmap.sh](http
 
 [Task Tracker CLI](https://roadmap.sh/projects/task-tracker)\
 [Github User Activity](https://roadmap.sh/projects/github-user-activity)\
-[Expense Tracker](https://roadmap.sh/projects/expense-tracker)
+[Expense Tracker](https://roadmap.sh/projects/expense-tracker)\
+[Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)
 
 Click any of the images below to view the readme and live demo of the project.
 
 <p align="left">
   <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/Task%20Tracker'>
-    <img width="48%" src="Assets/Screenshot(19).png" alt="Personal Portfolio" />
+    <img width="48%" src="Assets/Screenshot(19).png" alt="Task Tracker" />
   </a>
   <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/Github%20User%20Activity'>
-    <img width="48%" src="Assets/Screenshot(20).png" alt="Flash Cards" />
+    <img width="48%" src="Assets/Screenshot(20).png" alt="Github User Activity" />
   </a>
 </p>
 
 <p align="left">
   <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/Expense%20Tracker'>
-    <img width="48%" src="Assets/Screenshot(21).png" />
+    <img width="48%" src="Assets/Screenshot(21).png" alt="Expense Tracker" />
+  </a>
+  <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/Number%20Guessing%20Game'>
+    <img width="48%" src="Assets/Screenshot(22).png" alt="Number Guessing Game" />
   </a>
   
 </p>
