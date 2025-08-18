@@ -2,6 +2,8 @@
 
 A simple command-line application to manage your personal finances. Track your expenses, categorize them, and get insights into your spending patterns.
 
+[Expense Tracker](https://roadmap.sh/projects/expense-tracker)
+
 ## Features
 
 - ✅ **Add expenses** with description, amount, and category
@@ -101,16 +103,6 @@ By category:
 
 Expenses are stored in a JSON file (`expenses.json`) in the same directory as the script. The file is automatically created when you add your first expense.
 
-## File Structure
-
-```
-expense_tracker/
-├── expense_tracker.py    # Main application
-├── requirements.txt      # Dependencies (none required)
-├── README.md            # This file
-└── expenses.json        # Data file (created automatically)
-```
-
 ## Error Handling
 
 The application includes comprehensive error handling for:
@@ -137,10 +129,3 @@ The application includes comprehensive error handling for:
 - Includes all expense fields
 - Compatible with Excel, Google Sheets, and other spreadsheet applications
 
-## Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve this expense tracker.
-
-## License
-
-This project is open source and available under the MIT License.
