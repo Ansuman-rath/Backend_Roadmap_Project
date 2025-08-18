@@ -2,6 +2,8 @@
 
 A simple command-line interface (CLI) application that fetches and displays recent activity of a GitHub user using the GitHub API.
 
+[GitHub User Activity](https://roadmap.sh/projects/github-user-activity)
+
 ## Features
 
 - Fetch recent GitHub user activity without external dependencies
@@ -38,7 +40,7 @@ python github_activity.py <username>
 python github_activity.py kamranahmedse
 
 # Fetch activity for another user
-python github_activity.py torvalds
+python github_activity.py Ansuman-rath
 
 # Fetch activity for your own username
 python github_activity.py yourusername
@@ -109,40 +111,9 @@ If you need to make more requests, consider:
 2. Implementing request caching
 3. Respecting the rate limits
 
-## Contributing
-
-Feel free to contribute to this project by:
-- Adding support for more event types
-- Improving error handling
-- Enhancing the output formatting
-- Adding new features like filtering or sorting
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Troubleshooting
-
 ### Common Issues
 
 1. **"User not found" error**: Verify the username exists and is spelled correctly
 2. **Rate limit exceeded**: Wait before making more requests or use authentication
 3. **Network errors**: Check your internet connection and firewall settings
 
-### Getting Help
-
-If you encounter issues:
-1. Check that the username is valid and exists on GitHub
-2. Ensure you have a stable internet connection
-3. Verify you're using Python 3.6 or higher
-4. Check the error message for specific details
-
-## Future Enhancements
-
-Potential improvements for future versions:
-- Authentication support for higher rate limits
-- Filtering by event type or repository
-- Date range filtering
-- JSON output option
-- Interactive mode with pagination
-- Caching for better performance
