@@ -1,5 +1,9 @@
 # Unit Converter Web Application
 
+![Unit Converter](./Screenshot_uc.png)
+
+[Unit Converter](https://roadmap.sh/projects/unit-converter)
+
 A simple, modern web application that converts between different units of measurement. Built with HTML, CSS, and JavaScript.
 
 ## Features
@@ -67,24 +71,4 @@ unit-converter/
 └── README.md           # This file
 ```
 
-## Browser Compatibility
 
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
-- Internet Explorer 11+
-
-## Future Enhancements
-
-Potential features that could be added:
-- More unit categories (area, volume, speed, etc.)
-- History of conversions
-- Favorite conversions
-- Unit abbreviations
-- Scientific notation support
-- Dark mode toggle
-
-## License
-
-This project is open source and available under the MIT License.
