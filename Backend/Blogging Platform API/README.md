@@ -2,6 +2,8 @@
 
 A RESTful API for a personal blogging platform built with Node.js, Express.js, and SQLite.
 
+[Blogging Platform API](https://roadmap.sh/projects/blogging-platform-api)
+
 ## Features
 
 - **CRUD Operations**: Create, Read, Update, and Delete blog posts
@@ -257,18 +259,3 @@ The API can be tested using:
    npm start
    ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-MIT License - see LICENSE file for details
-
-## Support
-
-For issues and questions, please open an issue on the repository.
