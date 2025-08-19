@@ -8,7 +8,8 @@ This repository contains back-end projects built following the [roadmap.sh](http
 [Github User Activity](https://roadmap.sh/projects/github-user-activity)\
 [Expense Tracker](https://roadmap.sh/projects/expense-tracker)\
 [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)\
-[Unit Converter](https://roadmap.sh/projects/unit-converter)
+[Unit Converter](https://roadmap.sh/projects/unit-converter)\
+[Blogging Platform API](https://roadmap.sh/projects/blogging-platform-api)
 
 Click any of the images below to view the readme and live demo of the project.
 
@@ -34,6 +35,9 @@ Click any of the images below to view the readme and live demo of the project.
 <p align="left">
   <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/Unit%20Converter'>
     <img width="48%" src="Assets/Screenshot(23).png" alt="Unit Converter" />
+  </a>
+  <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/Blogging%20Platform%20API'>
+    <img width="48%" src="Assets/Screenshot(24).png" alt="Blogging Platform API" />
   </a>
  
 </p>
