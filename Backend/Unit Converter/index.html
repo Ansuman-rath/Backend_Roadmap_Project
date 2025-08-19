@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unit Converter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Unit Converter</h1>
+        </header>
+        
+        <main>
+            <!-- Category Selection -->
+            <div class="categories">
+                <button class="category-btn active" data-category="length">Length</button>
+                <button class="category-btn" data-category="weight">Weight</button>
+                <button class="category-btn" data-category="temperature">Temperature</button>
+            </div>
+            
+            <!-- Conversion Form -->
+            <div class="conversion-form">
+                <div class="input-group">
+                    <label for="inputValue">Enter the <span class="category-text">length</span> to convert</label>
+                    <input type="number" id="inputValue" placeholder="Enter value" step="any">
+                </div>
+                
+                <div class="input-group">
+                    <label for="fromUnit">Unit to Convert from</label>
+                    <select id="fromUnit">
+                        <!-- Options will be populated by JavaScript -->
+                    </select>
+                </div>
+                
+                <div class="input-group">
+                    <label for="toUnit">Unit to Convert to</label>
+                    <select id="toUnit">
+                        <!-- Options will be populated by JavaScript -->
+                    </select>
+                </div>
+                
+                <button id="convertBtn" class="convert-btn">Convert</button>
+            </div>
+            
+            <!-- Result Display -->
+            <div class="result-display" id="resultDisplay" style="display: none;">
+                <h3>Result of your calculation</h3>
+                <div class="result-value" id="resultValue"></div>
+                <button id="resetBtn" class="reset-btn">Reset</button>
+            </div>
+        </main>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
