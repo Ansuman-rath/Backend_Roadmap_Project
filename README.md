@@ -10,7 +10,8 @@ This repository contains back-end projects built following the [roadmap.sh](http
 [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)\
 [Unit Converter](https://roadmap.sh/projects/unit-converter)\
 [Blogging Platform API](https://roadmap.sh/projects/blogging-platform-api)\
-[TMDB CLI Tool](https://roadmap.sh/projects/tmdb-cli)
+[TMDB CLI Tool](https://roadmap.sh/projects/tmdb-cli)\
+[Caching Proxy](https://roadmap.sh/projects/caching-server)
 
 Click any of the images below to view the readme and live demo of the project.
 
@@ -46,6 +47,9 @@ Click any of the images below to view the readme and live demo of the project.
 <p align="left">
   <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/TMDB%20CLI%20Tool'>
     <img width="48%" src="Assets/Screenshot(26).png" alt="TMDB CLI Tool" />
+  </a>
+  <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/Caching%20Proxy'>
+    <img width="48%" src="Assets/Screenshot(25).png" alt="Caching Proxy" />
   </a>
  
 </p>
