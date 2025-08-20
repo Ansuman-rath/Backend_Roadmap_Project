@@ -4,6 +4,8 @@
 A simple **CLI-based caching proxy server** built with Node.js.
 It forwards requests to an origin server, caches the responses, and serves them from cache on repeated requests.
 
+[Caching Proxy](https://roadmap.sh/projects/caching-server)
+
 ## ✨ Features
 
 * Start a proxy server on any port and forward requests to an origin server
