@@ -45,7 +45,7 @@ Click any of the images below to view the readme and live demo of the project.
 
 <p align="left">
   <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/TMDB%20CLI%20Tool'>
-    <img width="48%" src="Assets/Screenshot(25).png" alt="TMDB CLI Tool" />
+    <img width="48%" src="Assets/Screenshot(26).png" alt="TMDB CLI Tool" />
   </a>
  
 </p>
