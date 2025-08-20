@@ -2,6 +2,8 @@
 
 A command line interface tool to fetch movie information from The Movie Database (TMDB) API. This tool allows you to easily retrieve popular, top-rated, upcoming, and now playing movies directly from your terminal.
 
+[TMDB CLI Tool](https://roadmap.sh/projects/tmdb-cli)
+
 ## ✨ Features
 
 - **Multiple Movie Categories**: Fetch different types of movies (playing, popular, top-rated, upcoming)
@@ -157,4 +159,5 @@ python tmdb_cli.py --type popular
 
 
 **Happy movie browsing! 🎭🍿**
+
 
