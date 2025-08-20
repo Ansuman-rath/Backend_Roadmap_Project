@@ -76,11 +76,6 @@ python tmdb_cli.py --type <movie_type>
   python tmdb_cli.py --type playing
   ```
 
-- **Popular Movies**
-  ```bash
-  python tmdb_cli.py --type popular
-  ```
-
 - **Top Rated Movies**
   ```bash
   python tmdb_cli.py --type top
@@ -153,35 +148,13 @@ Then try:
 python tmdb_cli.py --type popular
 ```
 
-## 🤝 Contributing
-
-Feel free to contribute to this project by:
-
-- Reporting bugs
-- Suggesting new features
-- Submitting pull requests
-- Improving documentation
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [TMDB](https://www.themoviedb.org/) for providing the free API
 - [Rich](https://github.com/Textualize/rich) for beautiful terminal output
 - [Click](https://click.palletsprojects.com/) for CLI framework
 - [Requests](https://requests.readthedocs.io/) for HTTP library
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check that your API key is correctly set
-2. Verify your internet connection
-3. Ensure all dependencies are installed
-4. Check the TMDB API status
-
----
 
 **Happy movie browsing! 🎭🍿**
+
