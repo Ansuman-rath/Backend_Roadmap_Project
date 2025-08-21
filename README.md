@@ -11,7 +11,8 @@ This repository contains back-end projects built following the [roadmap.sh](http
 [Unit Converter](https://roadmap.sh/projects/unit-converter)\
 [Blogging Platform API](https://roadmap.sh/projects/blogging-platform-api)\
 [TMDB CLI Tool](https://roadmap.sh/projects/tmdb-cli)\
-[Caching Proxy](https://roadmap.sh/projects/caching-server)
+[Caching Proxy](https://roadmap.sh/projects/caching-server)\
+[Markdown Note-taking App](https://roadmap.sh/projects/markdown-note-taking-app)
 
 Click any of the images below to view the readme and live demo of the project.
 
@@ -51,6 +52,14 @@ Click any of the images below to view the readme and live demo of the project.
   <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/Caching%20Proxy'>
     <img width="48%" src="Assets/Screenshot(25).png" alt="Caching Proxy" />
   </a>
+ 
+</p>
+
+<p align="left">
+  <a href='https://github.com/Ansuman-rath/Backend_Roadmap_Project/tree/main/Backend/Markdown%20Note-taking%20App'>
+    <img width="48%" src="Assets/Screenshot(27).png" alt="Markdown Note-taking App" />
+  </a>
+  
  
 </p>
 
