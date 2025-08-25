@@ -86,8 +86,8 @@ project-root/
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
-cd <project-folder>
+git clone https://github.com/Ansuman-rath/Backend_Roadmap_Project
+cd E-Commerce API
 ```
 
 2. Install dependencies:
