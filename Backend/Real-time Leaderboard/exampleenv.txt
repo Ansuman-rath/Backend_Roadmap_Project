@@ -1,4 +1,6 @@
 PORT=5000
 MONGO_URI=<value>
+REDIS_URL=redis://localhost:6379
 JWT_SECRET=<value>
+
 
