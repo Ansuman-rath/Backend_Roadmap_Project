@@ -18,7 +18,8 @@ This repository contains back-end projects built following the [roadmap.sh](http
 [Workout Tracker](https://roadmap.sh/projects/fitness-workout-tracker)\
 [Image Processing Service](https://roadmap.sh/projects/image-processing-service)\
 [Movie Reservation System](https://roadmap.sh/projects/movie-reservation-system)\
-[Real-time Leaderboard](https://roadmap.sh/projects/realtime-leaderboard-system)
+[Real-time Leaderboard](https://roadmap.sh/projects/realtime-leaderboard-system)\
+[Scalable E-Commerce Platform](https://roadmap.sh/projects/scalable-ecommerce-platform)
 
 Click any of the images below to view the readme and live demo of the project.
 
